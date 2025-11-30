@@ -1,2 +1,2 @@
-# alx-system_engineering-devops-master
+# alx-system_engineering-devops
 alx shell
